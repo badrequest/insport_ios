@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 *.xcuserstate
 
 inSPorte.xcodeproj/project.xcworkspace/xcuserdata/danilo.xcuserdatad/UserInterfaceState.xcuserstate
@@ -10,3 +11,10 @@ inSPorte.xcodeproj/xcuserdata/danilo.xcuserdatad/xcschemes/xcschememanagement.pl
 inSPorte.xcodeproj/xcuserdata/danilo.xcuserdatad/xcschemes/inSPorte.xcscheme
 
 .gitignore.swp
+=======
+*.xccheckout
+
+*.xcuserstate
+
+*.xcuserstate
+>>>>>>> master
